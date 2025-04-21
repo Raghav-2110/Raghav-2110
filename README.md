@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Raghav Singhal</h1>
-<h3 align="center">A passionate data analyst who loves creating solutions to new problems. Currently exploring new tools and frameworks. Reach me at : [Gmail](raghavsinghal.2110@gmail.com). Always down to collaborate or contribute to innovative projects.</h3>
+<h3 align="center">A passionate data analyst who loves creating solutions to new problems. Currently exploring new tools and frameworks. Reach me at : <a href="raghavsinghal.2110@gmail.com">Gmail</a>. Always down to collaborate or contribute to innovative projects.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
